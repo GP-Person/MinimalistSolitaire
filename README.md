@@ -1,0 +1,2 @@
+# MinimalistSolitaire
+Minimalist Solitaire
